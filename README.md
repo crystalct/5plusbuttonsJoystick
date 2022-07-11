@@ -34,4 +34,4 @@ Many early home computers and game consoles came with the classic one button joy
 etc etc
 
 ## Some games modded by me
-Commando (second fire to throw a granate) [Commando]([#Commando](https://github.com/crystalct/5plusbuttonsJoystick/raw/main/commando.d64))
+Commando (second fire to throw a granate) [Commando](#https://github.com/crystalct/5plusbuttonsJoystick/raw/main/commando.d64)
