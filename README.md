@@ -37,4 +37,4 @@ etc etc
 * Commando (second fire to throw a granate) [Commando](https://github.com/crystalct/5plusbuttonsJoystick/raw/main/commando.d64);
 * Retaliate64-CE (second fire activate shield, third fire launch missile) [Retaliate64-CE](https://github.com/crystalct/5plusbuttonsJoystick/raw/main/retaliate-ce.prg);
 * 1942 (second fire to pull up)[1942](https://github.com/crystalct/5plusbuttonsJoystick/raw/main/1942-2ndfire.prg);
-* Scramble - 2015 version (separate fire, and second fire for bombs, as in the arcade version) [Scramble](https://github.com/crystalct/5plusbuttonsJoystick/raw/main/scramble%5B2015%5D_2nd_fire.prg).
+* Scramble - 2015 version (separate fire and second fire for bombs, as in the arcade version) [Scramble](https://github.com/crystalct/5plusbuttonsJoystick/raw/main/scramble%5B2015%5D_2nd_fire.prg).
