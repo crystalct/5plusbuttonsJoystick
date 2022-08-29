@@ -37,4 +37,10 @@ etc etc
 * Commando (second fire to throw a granate) [Commando](https://github.com/crystalct/5plusbuttonsJoystick/raw/main/commando.d64);
 * Retaliate64-CE (second fire activate shield, third fire launch missile) [Retaliate64-CE](https://github.com/crystalct/5plusbuttonsJoystick/raw/main/retaliate-ce.prg);
 * 1942 (second fire to pull up)[1942](https://github.com/crystalct/5plusbuttonsJoystick/raw/main/1942-2ndfire.prg);
-* Scramble - 2015 version (separate fire and second fire for bombs, as in the arcade version) [Scramble](https://github.com/crystalct/5plusbuttonsJoystick/raw/main/scramble%5B2015%5D_2nd_fire.prg).
+* Scramble - 2015 version (separate fire and second fire for bombs, as in the arcade version) [Scramble](https://github.com/crystalct/5plusbuttonsJoystick/raw/main/scramble%5B2015%5D_2nd_fire.prg);
+* Blue Max (Only second fire to drop boms) [Blue Max](https://github.com/crystalct/5plusbuttonsJoystick/raw/main/BlueMax_2nd_fire.prg);
+* Wizball (2nd fire to choose the extra that is flashing at the upper border of the screen) [Wizball](https://github.com/crystalct/5plusbuttonsJoystick/raw/main/wizball-2nd-fire.prg);
+* Rambo: First Blood Part II (2nd fire to choose weapon and to make action) [Rambo: First Blood Part II](https://github.com/crystalct/5plusbuttonsJoystick/raw/main/rambo-first-blood-2nd-fire.prg);
+* Green Beret: (2nd fire to use additional weapon) [Green Beret](https://github.com/crystalct/5plusbuttonsJoystick/raw/main/green-beret-2nd-fire.prg);
+* Gryzor: (2nd fire to jump) [Gryzor](https://github.com/crystalct/5plusbuttonsJoystick/raw/main/gryzor-2nd-fire.prg);
+* Turrican: (2nd fire to activate two energy lines) [Turrican](https://github.com/crystalct/5plusbuttonsJoystick/raw/main/turrican-2nd-fire.zip).
