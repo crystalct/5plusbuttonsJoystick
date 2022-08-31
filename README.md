@@ -43,4 +43,6 @@ etc etc
 * Rambo: First Blood Part II (2nd fire to choose weapon and to make action) [Rambo: First Blood Part II](https://github.com/crystalct/5plusbuttonsJoystick/raw/main/rambo-first-blood-2nd-fire.prg);
 * Green Beret: (2nd fire to use additional weapon) [Green Beret](https://github.com/crystalct/5plusbuttonsJoystick/raw/main/green-beret-2nd-fire.prg);
 * Gryzor: (2nd fire to jump) [Gryzor](https://github.com/crystalct/5plusbuttonsJoystick/raw/main/gryzor-2nd-fire.prg);
-* Turrican: (2nd fire to activate two energy lines) [Turrican](https://github.com/crystalct/5plusbuttonsJoystick/raw/main/turrican-2nd-fire.zip).
+* Turrican: (2nd fire to activate two energy lines) [Turrican](https://github.com/crystalct/5plusbuttonsJoystick/raw/main/turrican-2nd-fire.zip);
+* Turrican II: (2nd fire to activate two energy lines) [Turrican II](https://github.com/crystalct/5plusbuttonsJoystick/raw/main/Turrican2-2nd-fire.zip);
+* Turbo Girl: (2nd fire to jump) [Turbo Girl](https://github.com/crystalct/5plusbuttonsJoystick/raw/main/turbogirl-2nd-fire.prg).
