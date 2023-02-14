@@ -222,7 +222,7 @@ void main(void) {
 		POKE(646, 1); //Char color
        
 		POKE(0xDC00,64 * (n_joy +1)); // REM SWITCH POT
-		if (PEEK(0xD41A) < 8) 
+		if (PEEK(0xD41A) < 16) 
            textcolor(5); //Char color
 		cputcxy(33, 21, 0x75);
 		cputcxy(34, 21, 0x69);
@@ -231,7 +231,7 @@ void main(void) {
 		POKE(646, 1); //Char color
 
 		POKE(0xDC00,64 * (n_joy +1)); // REM SWITCH POT
-		if (PEEK(0xD419) < 8) 
+		if (PEEK(0xD419) < 16) 
            textcolor(5); //Char color
 		cputcxy(19, 21, 0x75);
 		cputcxy(20, 21, 0x69);
