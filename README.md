@@ -3,7 +3,7 @@
 
 ![Alt text](snap.png?raw=true "Screen")
 
-[Joystik Tester PRG](Joystick5plus1Test.prg)
+[Joystick Tester PRG](Joystick5plus1Test.prg)
 
 ## Schematics
 ![Alt text](joy5plus.PNG?raw=true "Schematic")
