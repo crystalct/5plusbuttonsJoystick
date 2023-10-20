@@ -45,6 +45,7 @@ Components
 * C1: 100nF tht or smd 805 (otional - for Autofire part)
 
 **JPAUTO config**
+
 |With Autofire|Without AutoFire|Wrong choice|
 |![J2](./j2.png)|![J1](./j1.png)|Solder all or solder nothing|
 
