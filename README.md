@@ -4,7 +4,7 @@
 ![Alt text](snap.png?raw=true "Screen")
 
 
-![Alt text](joy.png?raw=true "Schematic")
+![Alt text](joy5plus.PNG?raw=true "Schematic")
 
 ## DIY a modern multi button joystick for your C64
 Since many, many years, a 3 button joystick for C64 is well known, but unfortunately not very widespread.
