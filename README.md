@@ -2,6 +2,7 @@
 5+1 Buttons Joystick for CBM 64/Vic 20
 
 ![Alt text](snap.png?raw=true "Screen")
+[Pdf](Joy5Plus2.0.pdf)
 
 
 ![Alt text](joy5plus.PNG?raw=true "Schematic")
