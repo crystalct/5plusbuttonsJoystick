@@ -32,7 +32,7 @@ You can choose to connect the PCB, positioned inside the joystick case, using ei
 Use the vertical 5-hole connector with **UP**, **DOWN**, **RIGHT**, **LEFT** and **GND** to connect the joystick stick to the PCB.
 UP button (optinal) to **UP_BUTTON** connector/jumper, Select button (optional) to **SELECT** connector/jumper,  Start button (optional) to **START** connector/jumper, Fire button to **FIREA** connector/jumper, 2nd Fire button to **FIREB** connector/jumper and 3rd Fire button to **FIREC** connector/jumper.
 
-Componets
+Components
 ---------
 * U1: 4011 DIP14 or 74HC00 SOIC14 (otional - for Autofire part)
 * D1, D2, D3, D4, D5 e D6: 1N4148 tht or smd 1206 (optinal  - for START and SELCT buttons or for Autofire part)
