@@ -25,12 +25,24 @@ If you want to use the optional part for the autofire, in addition to inserting 
 
 ### How to route computer joystick port signals to the PCB
 
-You can choose to connect the PCB, positioned inside the joystick case, using either a 9-pole joystick cable or a Joystick extension cable with male and female DB9 ports at its ends. In the first case you can use either connector A or connector B (the difference is that in connector B you can put different types of connectors with screw connection of the wires). In the second case you have to solder a female DB9 connector into the PCB.
+You can choose to connect the PCB, positioned inside the joystick case, using either a 9-pole joystick cable or a joystick extension cable with male and female DB9 ports at its ends. In the first case you can use either connector A or connector B (the difference is that in connector B you can put different types of connectors with screw connection of the wires). In the second case you have to solder a female DB9 connector into the PCB.
 
 ### Internal joystick case connections
 
 Use the vertical 5-hole connector with **UP**, **DOWN**, **RIGHT**, **LEFT** and **GND** to connect the joystick stick to the PCB.
 UP button (optinal) to **UP_BUTTON** connector/jumper, Select button (optional) to **SELECT** connector/jumper,  Start button (optional) to **START** connector/jumper, Fire button to **FIREA** connector/jumper, 2nd Fire button to **FIREB** connector/jumper and 3rd Fire button to **FIREC** connector/jumper.
+
+Componets
+---------
+* U1: 4011 DIP14 or 74HC00 SOIC14 (otional - for Autofire part)
+* D1, D2, D3, D4, D5 e D6: 1N4148 tht or smd 1206 (optinal  - for START and SELCT buttons or for Autofire part)
+* DB9 female serial port (if you want to use a joystick extension cable)
+* Rv1: 50-100KΩ potentiometer (otional - for Autofire part)
+* R1: 100KΩ tht or smd 1206 (otional - for Autofire part)
+* R2: 1MΩ tht or smd 1206 (otional - for Autofire part)
+* R3: 6.8KΩ tht or smd 1206 (otional - for Autofire part)
+* R4: 470Ω tht or smd 1206 (otional - for Autofire part)
+* C1: 100nF tht or smd 805 (otional - for Autofire part)
 
 ## Some games that support additional buttons
 Many early home computers and game consoles came with the classic one button joystick, and supporting more than that was rare. The following list omits the later released systems where controllers with two or more buttons became standard. (like MSX, SEGA Mastersystem, etc):
