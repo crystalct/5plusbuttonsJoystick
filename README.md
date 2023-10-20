@@ -45,4 +45,5 @@ etc etc
 * Gryzor: (2nd fire to jump) [Gryzor](https://github.com/crystalct/5plusbuttonsJoystick/raw/main/gryzor-2nd-fire.prg);
 * Turrican: (2nd fire to activate two energy lines) [Turrican](https://github.com/crystalct/5plusbuttonsJoystick/raw/main/turrican-2nd-fire.zip);
 * Turrican II: (2nd fire to activate two energy lines) [Turrican II](https://github.com/crystalct/5plusbuttonsJoystick/raw/main/Turrican2-2nd-fire.zip);
-* Turbo Girl: (2nd fire to jump) [Turbo Girl](https://github.com/crystalct/5plusbuttonsJoystick/raw/main/turbogirl-2nd-fire.prg).
+* Turbo Girl: (2nd fire to jump) [Turbo Girl](https://github.com/crystalct/5plusbuttonsJoystick/raw/main/turbogirl-2nd-fire.prg);
+* Look here for the complete and updated [list](http://wiki.icomp.de/wiki/DE-9_Joystick#C64).
