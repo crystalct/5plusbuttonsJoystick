@@ -17,13 +17,13 @@ This simple project adds two more buttons that uses two additional logic states 
 
 These two logic states are the simultaneousonly closing of the "UP" and "Down" circuits for the "Select" state/button and the simultaneous closing of the "Right" and "Left" circuits for the "Start" state/button, impossible to obtain in reality using the movement stick but identifiable by software. In this case the "Start" and "Select" buttons are perfectly usable for menus and choices to make when you are out of the action.
 
-### AutoFire optinoal part
+### AutoFire optional part
 
 With version 2.0 I added an optional part for managing the autofire. It works primarily via a CMOS NAND logic chip (4011 if you use a DIP14 or a 74HC00 if you use an SMD SOIC14). Be careful, TTL logic chips, 74LS or 74HCT, are not good. If you do not want to use this part, it can be removed by breaking the dotted part with the horizontal holes. However, this optional part, on its own, can be used to add autofire to a pre-existing joystick. In this case, use **JPow** to get power to it and **JBFO** for the Fire button. The **SWAUTO** jumper is used to select standard fire (closed) or autofire (open). If the optional autofire part remains attached to the main part of the PCB, then **JBFO** and **SWAUTO** must remain empty.
 The autofire speed is adjusted via the 50-100K ohm potentiometer attached to **RV1**.
 If you want to use the optional part for the autofire, in addition to inserting all the necessary components, you must solder pins 2 and 3 of **JPAUTO**. Otherwise, solder pins 1 and 2. If you leave **JPAUTO** without soldering, the Fire button will not work.
 
-### How to route computer joystick port signals to the PCB
+### How to route joystick port signals to the PCB
 
 You can choose to connect the PCB, positioned inside the joystick case, using either a 9-pole joystick cable or a joystick extension cable with male and female DB9 ports at its ends. In the first case you can use either connector A or connector B (the difference is that in connector B you can put different types of connectors with screw connection of the wires). In the second case you have to solder a female DB9 connector into the PCB.
 
