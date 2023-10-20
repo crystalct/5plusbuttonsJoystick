@@ -17,8 +17,12 @@ This simple project adds two more buttons that uses two additional logic states 
 
 These two logic states are the simultaneousonly closing of the "UP" and "Down" circuits for the "Select" state/button and the simultaneous closing of the "Right" and "Left" circuits for the "Start" state/button, impossible to obtain in reality using the movement stick but identifiable by software. In this case the "Start" and "Select" buttons are perfectly usable for menus and choices to make when you are out of the action.
 
+### AutoFire optinal part
+
+With version 2.0 I added an optional part for managing the autofire. It works primarily via a CMOS NAND logic chip (4011 if you use a DIP14 or a 74HC00 if you use an SMD SOIC14). Be careful, TTL logic chips, 74LS or 74HCT, are not good. If you do not want to use this part, it can be removed by breaking the dotted part with the horizontal holes. However, this optional part, on its own, can be used to add autofire to a pre-existing joystick. Use JPow to get power to it and JBFO for the Fire button. The SWAUTO jumper is used to select standard fire (closed) or autofire (open).
+
 ## Some games that support additional buttons
-Many early home computers and game consoles came with the classic one button joystick, and supporting more than that was rare. The following list omits the later released systems where controllers with two or more buttons became standard. (like MSX, SEGA Mastersystem, etc)
+Many early home computers and game consoles came with the classic one button joystick, and supporting more than that was rare. The following list omits the later released systems where controllers with two or more buttons became standard. (like MSX, SEGA Mastersystem, etc):
 
 * Alien 8 by Rod & Emu - 2nd button can be used for pick/drop in directional mode.
 * Battle Command (Ocean Cartridge) - 2nd button toggles between tank- and menu control, hold for menu bar
