@@ -5,6 +5,7 @@
 
 [Joystik Tester PRG](Joystick5plus1Test.prg)
 
+## Schematics
 ![Alt text](joy5plus.PNG?raw=true "Schematic")
 [Pdf](Joy5Plus2.0.pdf)
 
