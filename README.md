@@ -44,6 +44,10 @@ Components
 * R4: 470Ω tht or smd 1206 (otional - for Autofire part)
 * C1: 100nF tht or smd 805 (otional - for Autofire part)
 
+**JPAUTO config**
+|With Autofire|Without AutoFire|Wrong choice|
+|![J2](./j2.png)|![J1](./j1.png)|Solder all or solder nothing|
+
 ## Some games that support additional buttons
 Many early home computers and game consoles came with the classic one button joystick, and supporting more than that was rare. The following list omits the later released systems where controllers with two or more buttons became standard. (like MSX, SEGA Mastersystem, etc):
 
