@@ -47,6 +47,7 @@ Components
 **JPAUTO config**
 
 |With Autofire|Without AutoFire|Wrong choice|
+|:---:|:---:|:---:|
 |![J2](./j2.png)|![J1](./j1.png)|Solder all or solder nothing|
 
 ## Some games that support additional buttons
