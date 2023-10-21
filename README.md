@@ -43,6 +43,7 @@ Components
 * R3: 6.8KΩ tht or smd 1206 (otional - for Autofire part)
 * R4: 470Ω tht or smd 1206 (otional - for Autofire part)
 * C1: 100nF tht or smd 805 (otional - for Autofire part)
+* DL1: Led
 
 **JPAUTO config**
 
