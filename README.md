@@ -9,6 +9,12 @@
 ![Alt text](joy5plus.PNG?raw=true "Schematic")
 [Pdf](Joy5Plus2.0.pdf)
 
+**Appareance**
+
+|||
+|:---:|:---:|
+|![PCBU](joy5plus-up.png)|![PCBB](joy5plus-bott.png)|
+
 ## DIY a modern multi button joystick for your C64
 Since many, many years, a 3 button joystick for C64 is well known, but unfortunately not very widespread.
 Only the C64GS had some games which officially supported a second joystick button, and since the C64GS came out very late in the C64's lifespan, it never became common.
