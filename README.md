@@ -1,9 +1,9 @@
 # 5plusbuttonsJoystick
-5+1 Buttons Joystick for CBM 64/Vic 20
+5+1 Buttons Joystick for CBM 64/Vic 20 or AMIGA
 
 ![Alt text](snap.png?raw=true "Screen")
 
-[Joystick Tester PRG](Joystick5plus1Test.prg)
+[Joystick Tester PRG for C64](Joystick5plus1Test.prg)
 
 ## Schematics
 ![Alt text](joy5plus.PNG?raw=true "Schematic")
@@ -22,6 +22,15 @@ Standard joystick ports on C64 (and Vic20) has the necessary hardware for 3 fire
 This simple project adds two more buttons that uses two additional logic states to use them in two buttons "Select" and "Start".
 
 These two logic states are the simultaneousonly closing of the "UP" and "Down" circuits for the "Select" state/button and the simultaneous closing of the "Right" and "Left" circuits for the "Start" state/button, impossible to obtain in reality using the movement stick but identifiable by software. In this case the "Start" and "Select" buttons are perfectly usable for menus and choices to make when you are out of the action.
+
+### C64/Vic20 or AMIGA
+Using **JCommodore** connector it is possible to configure whether the joystick is for a C64/Vic20 or for an Amiga. I recommend using an internal selector/jumper or soldering the right pads with a jumper wire. It is possible to use an external selector, but BEWARE, pressing the 2nd fire or the 3rd fire with the selector in the wrong position, the computer could suffer a short circuit shock.
+JCommodore position 1-2 : C64/Vic20
+JCommodore position 2-3 : Amiga
+JCommodore empty: 2nd and 3rd fire disabled.
+
+### SPACEBAR simulator
+Using **FIRESPACEBAR** connector, it's possible to simulate pressing the space bar. To do this it is necessary to bring the fire pin/signal of joystick port #1 to input 10 of connector B. Obviously to do this you have to add a second joystick connector to port 1 and bring 10 and not 9 signals/wires to the PCB.
 
 ### AutoFire optional part
 
