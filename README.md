@@ -7,7 +7,7 @@
 
 ## Schematics
 ![Alt text](joy5plus.PNG?raw=true "Schematic")
-[Pdf](Joy5Plus2.0.pdf)
+[Pdf](Joy5Plus2.1.pdf)
 
 **Appareance**
 
