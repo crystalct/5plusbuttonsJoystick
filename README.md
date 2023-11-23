@@ -25,8 +25,11 @@ These two logic states are the simultaneousonly closing of the "UP" and "Down" c
 
 ### C64/Vic20 or AMIGA
 Using **JCommodore** connector it is possible to configure whether the joystick is for a C64/Vic20 or for an Amiga. I recommend using an internal selector/jumper or soldering the right pads with a jumper wire. It is possible to use an external selector, but BEWARE, pressing the 2nd fire or the 3rd fire with the selector in the wrong position, the computer could suffer a short circuit shock.
+
 JCommodore position 1-2 : C64/Vic20
+
 JCommodore position 2-3 : Amiga
+
 JCommodore empty: 2nd and 3rd fire disabled.
 
 ### SPACEBAR simulator
