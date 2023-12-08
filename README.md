@@ -41,7 +41,7 @@ With version 2.0 I added an optional part for managing the autofire. It works pr
 The autofire speed is adjusted via the 50-100K ohm potentiometer attached to **RV1**.
 If you want to use the optional part for the autofire, in addition to inserting all the necessary components, you must solder pads 2 and 3 of **JPAUTO**. Otherwise, solder pads 1 and 2. If you leave **JPAUTO** without soldering, the Fire button will not work.
 
-### How to route joystick port signals to the PCB
+### How to route joystick port signals to the PCB - BEWARE !!!! the Pinout of the SUB-D Pins on the PCB is for a male connector, not a for a female connector, i have to rewarite gerber file.
 
 You can choose to connect the PCB, positioned inside the joystick case, using either a 9-pole joystick cable or a joystick extension cable with male and female DB9 ports at its ends. In the first case you can use either connector A or connector B (the difference is that in connector B you can put different types of connectors with screw connection of the wires). In the second case you have to solder a female DB9 connector into the PCB.
 
