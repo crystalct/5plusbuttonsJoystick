@@ -23,6 +23,12 @@ This simple project adds two more buttons that uses two additional logic states 
 
 These two logic states are the simultaneousonly closing of the "UP" and "Down" circuits for the "Select" state/button and the simultaneous closing of the "Right" and "Left" circuits for the "Start" state/button, impossible to obtain in reality using the movement stick but identifiable by software. In this case the "Start" and "Select" buttons are perfectly usable for menus and choices to make when you are out of the action.
 
+### Revision 2.2
+
+* Pin-Layout for the SUB-D Connector corrected. It was a male connector and not a female connector.
+* D6 silkscreen was reversed. Now it is flipped and in the right orientation.
+* JPAUTO silkscreen corrected.
+
 ### C64/Vic20 or AMIGA
 Using **JCommodore** connector it is possible to configure whether the joystick is for a C64/Vic20 or for an Amiga. I recommend using an internal selector/jumper or soldering the right pads with a jumper wire. It is possible to use an external selector, but BEWARE, pressing the 2nd fire or the 3rd fire with the selector in the wrong position, the computer could suffer a short circuit shock.
 
@@ -41,7 +47,7 @@ With version 2.0 I added an optional part for managing the autofire. It works pr
 The autofire speed is adjusted via the 50-100K ohm potentiometer attached to **RV1**.
 If you want to use the optional part for the autofire, in addition to inserting all the necessary components, you must solder pads 2 and 3 of **JPAUTO**. Otherwise, solder pads 1 and 2. If you leave **JPAUTO** without soldering, the Fire button will not work.
 
-### How to route joystick port signals to the PCB - BEWARE !!!! the Pinout of the SUB-D Pins on the PCB is for a male connector, not a for a female connector, i have to rewrite gerber file.
+### How to route joystick port signals to the PCB
 
 You can choose to connect the PCB, positioned inside the joystick case, using either a 9-pole joystick cable or a joystick extension cable with male and female DB9 ports at its ends. In the first case you can use either connector A or connector B (the difference is that in connector B you can put different types of connectors with screw connection of the wires). In the second case you have to solder a female DB9 connector into the PCB.
 
