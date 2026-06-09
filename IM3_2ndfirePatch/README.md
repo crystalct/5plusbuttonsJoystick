@@ -1,4 +1,5 @@
-# Instructions for applying the patch to YOUR copy of Imposible Mission 3
+# Mod YOUR Impossible Mission 3 to add 2nd fire control to jump
+## Instructions for applying the patch to YOUR copy of Imposible Mission 3
 
 Choose a folder and put your **IM3_ICON64.crt**, **cartconv.exe** (from the VICE emulator bin folder), the **IM3.patch** and **patch.py** ​​files inside.
 Open the DOS shell (command prompt) and position yourself in the chosen folder.
