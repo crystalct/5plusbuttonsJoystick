@@ -16,6 +16,6 @@ cartconv -t md -i IM3_ICON64_path.bin -o IM3_ICON64_path.crt
 *Be careful, if your secret agent starts jumping non-stop... Congratulations! Your SID replacement sucks. Not only does it not handle the POTX and POTY registers, but reading them doesn't return the standard $FF values at rest, but $00. Money well spent!*
 
 **Download**
-[patch.py](https://github.com/crystalct/5plusbuttonsJoystick/raw/refs/heads/main/IM3_2ndfirePatch/patch.py)
-[IM3.patch]()
+- [patch.py](https://github.com/crystalct/5plusbuttonsJoystick/raw/refs/heads/main/IM3_2ndfirePatch/patch.py)
+- [IM3.patch](https://github.com/crystalct/5plusbuttonsJoystick/raw/refs/heads/main/IM3_2ndfirePatch/IM3.patch)
 
